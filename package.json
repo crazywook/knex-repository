@@ -1,6 +1,6 @@
 {
   "name": "knex-repository",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.20.10"
+    "config": "^3.2.6",
+    "knex": "^0.20.10",
+    "log4js": "^6.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
   }
 }
