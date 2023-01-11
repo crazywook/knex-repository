@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "config": "^3.2.6",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "log4js": "^6.1.2"
   },
   "devDependencies": {
